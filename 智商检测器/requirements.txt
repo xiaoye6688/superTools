@@ -1,0 +1,11 @@
+# 智商检测器依赖列表
+# 使用 pip install -r requirements.txt 安装所有依赖
+
+# PySide6 - Qt6的Python绑定，用于GUI界面
+PySide6>=6.9.0
+
+# 可选：如果需要更好的字体渲染
+# fonttools>=4.0.0
+
+# 可选：如果需要图标支持
+# Pillow>=8.0.0
